@@ -1,10 +1,10 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# Deep learning with PyTorch: a beginning guide towards DL applications
+### Level: Beginner
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop you will learn the basis of PyTorch and how to use it for designing a deep learning model with an outlook on more advanced applications.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -15,7 +15,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/iyXpdiIgl_k)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
